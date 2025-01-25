@@ -16,7 +16,7 @@ Hi there! I'm Raghav Tandulkar
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-97&layout=compact)
 
-
+![roadmap](https://roadmap.sh/card/tall/6794a39f32284498bcd5953e?variant=dark)
 ## 🤝 Open to Collaborate
 I'm always looking to collaborate on interesting projects! Feel free to reach out if you want to work together.
 
