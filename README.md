@@ -1,23 +1,59 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Raghav Tandulkar
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Raghav</h1></summary>
+  </ul>
+</div>
 
-## 👤 About Me
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-Hi there! I'm Raghav Tandulkar
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,ts,react,nextjs,tailwind,mongodb,postgres,prisma,express,git,github,html,css,mysql,postman,vscode&perline=8" />
+  </a>
+</p>
 
-### 🌐 Connect with Me
-- **LinkedIn**: [Raghav Tandulkar](https://linkedin.com/in/raghavv27)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
 - **Twitter**: [@raghavv_977](https://twitter.com/raghavv_977)
+- **LinkedIn**: [Raghav Tandulkar](https://linkedin.com/in/raghavv27)
+- **Discord**: []
 - **Email**: raghavtandulkar27@gmail.com
 
-## 📊 GitHub Stats
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=itzraghavv&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itzraghavv&theme=dark&hide_border=false" /> 
+</td>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav-97&show_icons=true&theme=radical)
+<td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-97&layout=compact)
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itzraghavv&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-![roadmap](https://roadmap.sh/card/tall/6794a39f32284498bcd5953e?variant=dark)
 ## 🤝 Open to Collaborate
+
 I'm always looking to collaborate on interesting projects! Feel free to reach out if you want to work together.
 
 ---
