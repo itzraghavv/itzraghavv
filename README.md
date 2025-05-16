@@ -15,7 +15,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,express,nodejs,ts,react,nextjs,tailwind,mongodb,postgres,prisma,express,git,github,html,css,mysql,postman,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,ts,react,nextjs,tailwind,mongodb,postgres,prisma,git,github,html,css,mysql,docker,aws,postman,vscode&perline=8" />
   </a>
 </p>
 
@@ -30,17 +30,11 @@
 - **Discord**: []
 - **Email**: raghavtandulkar27@gmail.com
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=itzraghavv&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itzraghavv&theme=dark&hide_border=false" /> 
-</td>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzraghavv&theme=dark&show_icons=true&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzraghavv&theme=dark&hide_border=false" height="200"/>
+</div>
 
-</tr>
-</table>
 
 ## 🤝 Open to Collaborate
 
