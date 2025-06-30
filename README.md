@@ -25,7 +25,7 @@
   </ul>
 </div>
 
-- **Twitter**: [@raghavv_977](https://x.com/rghvv_)
+- **Twitter**: [@rghvv](https://x.com/rghvv_)
 - **LinkedIn**: [Raghav Tandulkar](https://linkedin.com/in/raghavv27)
 - **Discord**: []
 - **Email**: raghavtandulkar27@gmail.com
